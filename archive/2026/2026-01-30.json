@@ -70,5 +70,11 @@
         "url": "https://mp.weixin.qq.com/s/dzszjP4CamZTBSEek8D_lQ",
         "source": "Doonsec",
         "date_added": "2026-01-30"
+    },
+    {
+        "title": "NestJS Devtools 远程命令执行漏洞(CVE-2025-54782)",
+        "url": "https://mp.weixin.qq.com/s/riytASFc-80HU5mOKmEQ_Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
     }
 ]
