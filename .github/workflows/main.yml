@@ -23,6 +23,10 @@ jobs:
     # 运行环境
     runs-on: ubuntu-latest
 
+environment:
+      name: github-pages  # 必须与仓库中创建的环境名完全一致（全小写！）
+      url: ${{ steps.deployment.outputs.page_url }}  # 动态显示部署后 URL
+
     # 为工作流设置权限，这是部署到 GitHub Pages 所必需的
     permissions:
       contents: write # 允许检出代码和提交 archive 目录的更改
