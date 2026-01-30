@@ -64,5 +64,11 @@
         "url": "https://mp.weixin.qq.com/s/4W102UsYVk2AnXmgf8qcJw",
         "source": "Doonsec",
         "date_added": "2026-01-30"
+    },
+    {
+        "title": "网安实验干货每日分享Spring WebFlow 远程代码执行漏洞（CVE-2017-4971）-0130",
+        "url": "https://mp.weixin.qq.com/s/dzszjP4CamZTBSEek8D_lQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
     }
 ]
