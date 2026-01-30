@@ -23,7 +23,7 @@ jobs:
     # 运行环境
     runs-on: ubuntu-latest
 
-environment:
+    environment:
       name: github-pages  # 必须与仓库中创建的环境名完全一致（全小写！）
       url: ${{ steps.deployment.outputs.page_url }}  # 动态显示部署后 URL
 
