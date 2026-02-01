@@ -1,0 +1,32 @@
+[
+    {
+        "title": "从“打补丁”到“套娃式绕过”：SolarWinds Web Help Desk 的 RCE 漏洞深度复盘",
+        "url": "https://mp.weixin.qq.com/s/uMa_qYfHGiF8bwZOb9rn1w",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "JAVA代码审计shiro鉴权绕过案例",
+        "url": "https://mp.weixin.qq.com/s/Hptzwr3UrNllzF0PEZrwCQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "基于AI的自主渗透测试平台 | AI-Powered Autonomous Penetration Testing Platform",
+        "url": "https://mp.weixin.qq.com/s/5JLp4g70V0HZ-sMKcDnTgQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "1day | 飞牛系统（fnOS）app-center-static 目录遍历导致任意文件读取漏洞+命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/OjSn4k6RCSwYSFuh-78Thw",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "吃瓜（2）：FBI备忘录称以色列“渗透”了特朗普，爱泼斯坦与摩萨德有联系",
+        "url": "https://mp.weixin.qq.com/s/rM2zMfr6KqNkvZ0cAvzT_g",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    }
+]
