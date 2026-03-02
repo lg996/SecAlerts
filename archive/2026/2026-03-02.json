@@ -352,5 +352,17 @@
         "url": "https://mp.weixin.qq.com/s/155OpbgBF5W2ceRrSL5IEw",
         "source": "Doonsec",
         "date_added": "2026-03-02"
+    },
+    {
+        "title": "【高危漏洞预计】 telnetd组件中存在权限提升漏洞CVE-2026-28372",
+        "url": "https://mp.weixin.qq.com/s/ljWhNRHORBdccHMqR7co2A",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "青龙面板目录大小写鉴权绕过导致rce",
+        "url": "https://mp.weixin.qq.com/s/A_LKJXuBMqzRj6oiBWn0gA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
     }
 ]
