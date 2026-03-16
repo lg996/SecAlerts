@@ -256,5 +256,35 @@
         "url": "https://mp.weixin.qq.com/s/h59qNs4zbGVaHUgVcK5obA",
         "source": "Doonsec",
         "date_added": "2026-03-16"
+    },
+    {
+        "title": "VulnRadar：集成多模块的Chrome浏览器安全渗透测试扩展",
+        "url": "https://mp.weixin.qq.com/s/gN_K408O-acsf8LydpDJFw",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "【Web安全】PHP反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s/yYk0iISgFMyT4NiZlml5Fw",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "谷歌2025年发放了近1.2亿元漏洞赏金，单个漏洞最高奖励170万元",
+        "url": "https://mp.weixin.qq.com/s/fBZWaB8u3LGqnYnD8757VQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "oasys代码审计",
+        "url": "https://mp.weixin.qq.com/s/Mnj862x7PedXW-hsct2QTA",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第10期",
+        "url": "https://mp.weixin.qq.com/s/LvfU-s775n5ZgDbZ_0IuPw",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
     }
 ]
