@@ -64,5 +64,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144017&idx=1&sn=32caa5562058036a673f43eb55cc78c5",
         "source": "BruceFeIix",
         "date_added": "2026-03-28"
+    },
+    {
+        "title": "Coruna漏洞工具包升级攻击框架，威胁数百万未打补丁的iOS设备",
+        "url": "https://mp.weixin.qq.com/s/g_9aQ8gTTFotM_z0W09NhQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    },
+    {
+        "title": "ClawHub漏洞可致恶意skill登顶；Claude Code允许AI自主选择操作权限 | FreeBuf周报",
+        "url": "https://mp.weixin.qq.com/s/3-fMzl70tqasCcq04dikyg",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    },
+    {
+        "title": "0142.微软身份验证器中未被认领的深度链接：账户完全被盗用（CVE-2026-26123）",
+        "url": "https://mp.weixin.qq.com/s/fhjkZZu-Sn5blbytQpDslw",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    },
+    {
+        "title": "墨雪飘影漏洞收集平台通过工信部备案",
+        "url": "https://mp.weixin.qq.com/s/wdTqwg12UxwNB6hkfUDfHg",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    },
+    {
+        "title": "威胁通缉令 · 红桃A丨React2Shell RCE漏洞（新增）",
+        "url": "https://mp.weixin.qq.com/s/iM1sFwRqgXAAyjgLEsdxkA",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    },
+    {
+        "title": "【建议收藏】网络安全实战工具红宝书：从信息收集到内网渗透，700+项目一网打尽",
+        "url": "https://mp.weixin.qq.com/s/WpUwzMB5SxZpRoLTiOgh5g",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    },
+    {
+        "title": "Shannon：AI渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/zJ6JpckKcMYV5fUYNaaP8g",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    },
+    {
+        "title": "深科特 LEAN MES系统 TestManagePlatform.ashx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/lean-mes-TestManagePlatform-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-03-28"
     }
 ]
