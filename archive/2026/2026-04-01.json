@@ -226,5 +226,29 @@
         "url": "https://mrxn.net/jswz/lean-mes-AutoComplete-sqli.html",
         "source": "MRXN",
         "date_added": "2026-04-01"
+    },
+    {
+        "title": "利用邮箱漏洞寻找突破口打穿目标内网",
+        "url": "https://mp.weixin.qq.com/s/K2W-Hfk90VakfG5gMwM5Aw",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "4月社区投稿活动 | 漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/i1AJHN9Kx_a3bHAI41PH2w",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "PHP代码审计实战：两个经典漏洞的深度剖析",
+        "url": "https://mp.weixin.qq.com/s/FQcKOdbFQclYK1kMXqnQsg",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "【CVE-2026-4747】疯了！Claude 直接写内核 RCE，成功获得 Root Shell！",
+        "url": "https://mp.weixin.qq.com/s/PUNGfi1A6Y3RP1rO3BihAQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
     }
 ]
