@@ -424,5 +424,11 @@
         "url": "https://mp.weixin.qq.com/s/r5C-C2E0OZZci8BwAQICPw",
         "source": "Doonsec",
         "date_added": "2026-04-08"
+    },
+    {
+        "title": "迅饶科技X2Modbus网关GetConfig接口存在敏感信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/3RWtWphVFPpDmYKWmsRoHg",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
     }
 ]
