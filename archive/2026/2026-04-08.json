@@ -430,5 +430,11 @@
         "url": "https://mp.weixin.qq.com/s/3RWtWphVFPpDmYKWmsRoHg",
         "source": "Doonsec",
         "date_added": "2026-04-08"
+    },
+    {
+        "title": "安卓高通芯片0day漏洞CVE-2026-21385",
+        "url": "https://mp.weixin.qq.com/s/D-W4UJmQxOpYX3woKJT_PQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
     }
 ]
