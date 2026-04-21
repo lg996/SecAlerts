@@ -370,5 +370,17 @@
         "url": "https://mp.weixin.qq.com/s/GoWMLTXbN8AbtfG2Pu_pRQ",
         "source": "Doonsec",
         "date_added": "2026-04-21"
+    },
+    {
+        "title": "台湾民进党在美实施公关渗透游说的“白手套”",
+        "url": "https://mp.weixin.qq.com/s/hdNLorvWcB_PJ-dpuJeJaQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "CVE-2024-2961 完整 RCE 链详解：1字节 glibc 溢出如何秒杀 PHP（Web手视角）",
+        "url": "https://mp.weixin.qq.com/s/1380q6UsW9uq9keXh3kp5w",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
     }
 ]
