@@ -142,5 +142,47 @@
         "url": "https://mp.weixin.qq.com/s/4inUlJkmdEk5GMVIJgGcmA",
         "source": "Doonsec",
         "date_added": "2026-05-10"
+    },
+    {
+        "title": "告别测试版，昆仑渗透测试平台 1.0.1 正式版上线了",
+        "url": "https://mp.weixin.qq.com/s/MsIr3O4WRnhBXW-PLgGsVw",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "Linux超高危漏洞！网络安全一周新闻速看（20260510期）",
+        "url": "https://mp.weixin.qq.com/s/zGBhlQGzQepSbSrDYCwPyQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "WatchVuln_Web高价值漏洞采集与推送工具",
+        "url": "https://mp.weixin.qq.com/s/zUzS4ECOjUkY2nZ5jeU9gA",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "AI自动扫描漏洞，一晚上能干多少事？",
+        "url": "https://mp.weixin.qq.com/s/TFfiBhcuYk9wHR8pI-hLqQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "复现完全越狱、开源且预先构建好的iOS 26虚拟机！",
+        "url": "https://mp.weixin.qq.com/s/nGjL-9Ib_jGAWbbbjbnwXQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "基于Dirty Frag漏洞发现过程的“攻击原语”思考——再论漏洞发现与分析工作的人机分工",
+        "url": "https://mp.weixin.qq.com/s/ugp9359ThAHC3JIH-G9zWA",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "从密码重置到 Gogs RCE：Silentium 双链路提权",
+        "url": "https://mp.weixin.qq.com/s/RvHBZAQKvHyjxEgkTsYsHA",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
     }
 ]
