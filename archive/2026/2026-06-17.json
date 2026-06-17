@@ -460,5 +460,59 @@
         "url": "https://mp.weixin.qq.com/s/PSwbuuwm-Z1HJ3DTVoqLPA",
         "source": "Doonsec",
         "date_added": "2026-06-17"
+    },
+    {
+        "title": "Apache CXF XXE 外部实体解析漏洞 | CVE-2026-49875复现&amp;研究",
+        "url": "https://mp.weixin.qq.com/s/ijLCWBvroVkvtC_X0cdspg",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "看完这个实操，分清XSS漏洞属于哪种类型！",
+        "url": "https://mp.weixin.qq.com/s/QNrv37lUyUQaq8qPKiyckw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "Redis四大RCE攻击链曝光，挖矿入侵事件频发！",
+        "url": "https://mp.weixin.qq.com/s/YXADtSQJRU2q8Dl3bDpNOQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "思科统一通信管理器曝出高危漏洞，随公开利用代码流出厂商紧急发布补丁",
+        "url": "https://mp.weixin.qq.com/s/J1HQDYHF0w63rlzt7I0BiQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "研究员因不再信任微软漏洞披露机制，公开全新 VS Code 零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/bTIPDLEo0U77saWHvzmp4g",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "Gamaredon 团伙利用 WinRAR 漏洞，针对乌克兰目标开展模块化间谍窃密活动",
+        "url": "https://mp.weixin.qq.com/s/rcPdpwNZRnnxAB2u-FZb7g",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "借助 AI 逆向工程 EXE 文件实现 RCE",
+        "url": "https://mp.weixin.qq.com/s/FffVuOxirMh7cdYxHRE-cg",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "Comodo Internet Security 远程内核漏洞利用分析",
+        "url": "https://mp.weixin.qq.com/s/y_w0U-xNf0wk3T6XSa5CMQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "39+常见未授权漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s/rrj_03K1P0p-tw-iZhU5Hg",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
     }
 ]
