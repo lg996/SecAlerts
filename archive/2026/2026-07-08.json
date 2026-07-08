@@ -16,5 +16,89 @@
         "url": "https://mp.weixin.qq.com/s/R4fpQzyEgO7e_IU7RdtUcQ",
         "source": "Doonsec",
         "date_added": "2026-07-08"
+    },
+    {
+        "title": "震惊！这款渗透测试神器让万级资产验证效率提升100倍",
+        "url": "https://mp.weixin.qq.com/s/DNPkBE95oh8LVFqD25zyBQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "大象要一口一口吃：PHP PDO扩展中的NUL字节SQL注入与空指针解引用漏洞",
+        "url": "https://mp.weixin.qq.com/s/foMleOiYvmBA-d3hq8ks_g",
+        "source": "Doonsec",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "MapTilerTileserver 反射xss漏洞(CVE-2025-44136)",
+        "url": "https://mp.weixin.qq.com/s/OFokLPFwqsWcVfUZHYH_RQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "7月8日高危CVE漏洞速报",
+        "url": "https://mp.weixin.qq.com/s/bAfsWIuRhVac2SmgUvxOlA",
+        "source": "Doonsec",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "AI 渗透初探：从零开始的实战赋能记录",
+        "url": "https://mp.weixin.qq.com/s/GNyfCq_gohftgGUfnX9Z2g",
+        "source": "Doonsec",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "用友时空KSOA popedom SQL 注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/w20ssr3O7Uvo9QOw4P1m3Q",
+        "source": "Doonsec",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "AI 渗透初探：从零开始的实战赋能记录",
+        "url": "https://mp.weixin.qq.com/s/YuTWMWHyJr_GlL_Y52iffQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "最高罚全球营收 2.5%！做欧盟 CRA 上报，漏洞线索去哪找？全渠道整理好了",
+        "url": "https://mp.weixin.qq.com/s/3DZjdpJhCPZ_6Pt9NvhXnw",
+        "source": "Doonsec",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "Z3r0：全流程自动化渗透/挖洞智能体协作平台",
+        "url": "https://mp.weixin.qq.com/s/u9tLt_Zn1xz1MbOgvrQzTA",
+        "source": "Doonsec",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "正在被恶意利用的 Gitea 容器高危漏洞，可泄露代码仓库与密钥",
+        "url": "https://mp.weixin.qq.com/s/RxBW807IwVO2BUviAPQsWQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "黑客利用AI工具HexStrike+Claude渗透酒店预订平台",
+        "url": "https://mp.weixin.qq.com/s/-FFsoRHAA1hwDdKWDMEOIQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "得到$23000赏金的挖漏洞过程",
+        "url": "https://mp.weixin.qq.com/s/bmxXGrXQYGO0Y6Z8Ff8GuQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "漏洞通告|Huawei HarmonyOS IPC模块竞争条件漏洞(CVE-2026-41982)",
+        "url": "https://mp.weixin.qq.com/s/usom_x30ugOFM9LbiUwBAg",
+        "source": "Doonsec",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "无影(TscanPlus)网络安全和渗透运维神器VIP-Key直接免费送",
+        "url": "https://mp.weixin.qq.com/s/nvgDklvSZAJWyh3bTdg_Ag",
+        "source": "Doonsec",
+        "date_added": "2026-07-08"
     }
 ]
