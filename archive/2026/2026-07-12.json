@@ -16,5 +16,17 @@
         "url": "https://mp.weixin.qq.com/s/NujKp6tHTIkutAVBVpnWjQ",
         "source": "Doonsec",
         "date_added": "2026-07-12"
+    },
+    {
+        "title": "深入剖析 CVE-2026-1207：Django RasterField(PostGIS) 栅格查询 SQL 注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/9XBaIsT6w9sRhgUCLgr7YQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-12"
+    },
+    {
+        "title": "手把手搭建一个带渗透能力的AI助理：Hermes完整部署指南",
+        "url": "https://mp.weixin.qq.com/s/ffJ7HXQctFTrnq7PB3676A",
+        "source": "Doonsec",
+        "date_added": "2026-07-12"
     }
 ]
