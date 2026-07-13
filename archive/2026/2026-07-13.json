@@ -4,5 +4,47 @@
         "url": "https://mp.weixin.qq.com/s/kv-Rm6ONXuDLWrfWgZPqDQ",
         "source": "Doonsec",
         "date_added": "2026-07-13"
+    },
+    {
+        "title": "人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/fL9jrvLaXAwAPUS-kQberw",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "7月社区投稿活动 | 漏洞挖掘/AI渗透",
+        "url": "https://mp.weixin.qq.com/s/K8TPRpg-KAEfjQPvxzYMQw",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "2026年渗透测试新范式：AI Agent 如何重构网络安全",
+        "url": "https://mp.weixin.qq.com/s/Sfw_ZEM32AtYFNQi83oceQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "原创—某AI xss漏洞",
+        "url": "https://mp.weixin.qq.com/s/jWN3eHJLb5tE9h-m61QG4Q",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "7月13日高危CVE漏洞速报",
+        "url": "https://mp.weixin.qq.com/s/SDcNnWXe4BZU7ExTv0tlSg",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "红海云eHR StWasAssessDept.mob SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/xHATuNLfFaj5fh3KL4aYdw",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "研究人员详细介绍了利用 OpenClaw 三个漏洞实现 WhatsApp 到主机攻击链的过程",
+        "url": "https://mp.weixin.qq.com/s/s94HNhD-ZNRzRnXEtdJLDA",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
     }
 ]
