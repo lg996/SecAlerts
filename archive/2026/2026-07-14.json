@@ -172,5 +172,11 @@
         "url": "https://mp.weixin.qq.com/s/Uf7ZeAqNwgLQH5N9QSumBg",
         "source": "Doonsec",
         "date_added": "2026-07-14"
+    },
+    {
+        "title": "【高危AI漏洞预警】n8n令牌验证绕过漏洞(CVE-2026-59208)",
+        "url": "https://mp.weixin.qq.com/s/ab5lAthSUHY5HsvfJkSYZQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
     }
 ]
