@@ -16,5 +16,53 @@
         "url": "https://mp.weixin.qq.com/s/UTmUPTETr9bT-395dX8vEw",
         "source": "Doonsec",
         "date_added": "2026-07-15"
+    },
+    {
+        "title": "] [【安全圈】Telegram全球瘫痪！核心域名突遭封禁，数亿用户链接全部失效",
+        "url": "https://mp.weixin.qq.com/s/Vcc-EA1sncNPOcOVw8t8Iw",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-15"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.7.6-2026.7.12",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503871&idx=1&sn=7f1d3e71b700a3ce4e00c973c2ff2c95",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-15"
+    },
+    {
+        "title": "] [ServiceNow 严重漏洞导致远程攻击者执行恶意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526614&idx=1&sn=52998f2ed993d525f8db65adf3507e3a",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-15"
+    },
+    {
+        "title": "] [【已复现、利用难度高】Windows HTTP.sys 整数溢出漏洞(CVE-2026-47291)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506606&idx=1&sn=623d2ac0057653292d595cf9145bbe3f",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-15"
+    },
+    {
+        "title": "] [评论 | 堵住“仅退款”规则漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264647&idx=5&sn=729fd6ff91322e692c8fe4a80e8db5f8",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-15"
+    },
+    {
+        "title": "] [自研LangGraph漏洞挖掘工作流 · 高阶实训 · CVE全链路复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617595&idx=3&sn=c738c70df4d2631bd66ccd4ca2233bba",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-15"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第27期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501866&idx=1&sn=f6c869743e237ff0a2385b6d5b9bb4d0",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-15"
+    },
+    {
+        "title": "7月社区投稿活动 | 漏洞挖掘/AI渗透",
+        "url": "https://mp.weixin.qq.com/s/OX6LBRFhJwuAeTW17sd_7w",
+        "source": "Doonsec",
+        "date_added": "2026-07-15"
     }
 ]
