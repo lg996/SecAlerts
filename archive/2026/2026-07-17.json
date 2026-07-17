@@ -22,5 +22,53 @@
         "url": "https://mp.weixin.qq.com/s/Rf3w_amp_ZxkZ-mCvwKEuw",
         "source": "Doonsec",
         "date_added": "2026-07-17"
+    },
+    {
+        "title": "] [用缓冲区溢出漏洞把矿卡变成 A100",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257342&idx=1&sn=dfb0ede540af1cb3a4b311414e6537a0",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-17"
+    },
+    {
+        "title": "] [Zoom：注意这个严重的账户接管漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526636&idx=1&sn=7a16b14bc318e77d8eaa96cd6c7f7025",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-17"
+    },
+    {
+        "title": "] [CISA：立即修复这些已遭利用的 SharePoint 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526636&idx=2&sn=fe817375b8e1b3316d7d8bc37bfe109f",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-17"
+    },
+    {
+        "title": "] [微步情报局发现并协助修复Eclipse Jetty 12 路径穿越漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508760&idx=1&sn=dc6529b7677375b6b25b63a962ed7fed",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-17"
+    },
+    {
+        "title": "] [【安全圈】SonicWall爆出两个零日漏洞，黑客已在利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077869&idx=2&sn=afe6269498d72500b766add22dac0d26",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-17"
+    },
+    {
+        "title": "] [又撕微软！无补丁 LegacyHive 0day，低权限可读取管理员注册表数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617641&idx=2&sn=c9db90ecf64e7fc1a85189aaaeff52d4",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-17"
+    },
+    {
+        "title": "微软创纪录的漏洞补丁月意味了什么",
+        "url": "https://mp.weixin.qq.com/s/i_ETBHfxzhk7h4Fh0ZQ4Pw",
+        "source": "Doonsec",
+        "date_added": "2026-07-17"
+    },
+    {
+        "title": "谷歌 Mantis：关于AI 代码审计如何做约束的思考",
+        "url": "https://mp.weixin.qq.com/s/xAxGhAjz7drvHJmjgXLDuA",
+        "source": "Doonsec",
+        "date_added": "2026-07-17"
     }
 ]
