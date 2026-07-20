@@ -22,5 +22,11 @@
         "url": "https://mp.weixin.qq.com/s/fztSui3bqoQ9x4rxQCmbFQ",
         "source": "Doonsec",
         "date_added": "2026-07-20"
+    },
+    {
+        "title": "Fastjson 1.2.83 默认配置下的远程代码执行RCE",
+        "url": "https://mrxn.net/jswz/fastjson-1-2-83-default-config-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-07-20"
     }
 ]
