@@ -16,5 +16,83 @@
         "url": "https://mp.weixin.qq.com/s/o8TeuIpBOcNohYhdQqgzEg",
         "source": "Doonsec",
         "date_added": "2026-07-21"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.7.13-2026.7.19",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503878&idx=1&sn=0f08b2a64878c9e4b82b193c9a481d60",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-21"
+    },
+    {
+        "title": "] [【已复现】无需 gadget、黑名单失效--Fastjson 1.2.83 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493249&idx=1&sn=117bdf1acec5e7493910c2335141d0c5",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-21"
+    },
+    {
+        "title": "] [wp2shell RCE 严重漏洞获紧急补丁，影响数亿WordPress 站点",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526666&idx=2&sn=e3e7dab6e1c8b4dd6255180cf5b117a1",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-21"
+    },
+    {
+        "title": "] [潜伏15年！Nginx核心漏洞曝光，无需密码即可远程拿下服务器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617674&idx=2&sn=f646ceb2019b4a6ace17085153503c60",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-21"
+    },
+    {
+        "title": "] [【安全圈】WordPress Core \"wp2shell\" RCE 漏洞利用代码已公开，请立即修补",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077928&idx=1&sn=0ef9805dd0a523c60d38ae8873a9d0bd",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-21"
+    },
+    {
+        "title": "] [【漏洞预警】Fastjson 远程代码执行漏洞预警：1.2.68–1.2.83 受影响",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1NDg4MTIxMw==&mid=2247486768&idx=1&sn=9c698e79b089f7118865d81d0ac09e10",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-21"
+    },
+    {
+        "title": "] [2026年网安/软工/AI顶会基于Agent 的漏洞挖掘、验证、利用与修复的论文汇编",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486128&idx=1&sn=791ba32939688d0a2e21fdf74b02af4b",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-21"
+    },
+    {
+        "title": "] [【漏洞通告】WordPress远程代码执行漏洞（CVE-2026-63030&CVE-2026-60137）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247492651&idx=1&sn=e497a59c9aa813cd958277f2a0849778",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-21"
+    },
+    {
+        "title": "] [【风险提示】天融信关于WordPress Core预认证远程代码执行漏洞链wp2shell（CVE-2026-63030）的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497065&idx=1&sn=96b10823e37a18659b50ab9166138d92",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-21"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第28期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497119&idx=1&sn=e308a231b1a56233979f0e7104fbd577",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-21"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260713-20260719)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497119&idx=2&sn=feaf4461e7f4799caa2985157ccb194d",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-21"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第28期",
+        "url": "https://mp.weixin.qq.com/s/fI_wV_n2QRnZ09ygxpI5nA",
+        "source": "Doonsec",
+        "date_added": "2026-07-21"
+    },
+    {
+        "title": "中央网信办部署开展“清朗·未成年人网络保护”专项行动；CNVD发布上周漏洞周报：漏洞总量走高，多款海外软件曝高危漏洞 | 牛览",
+        "url": "https://mp.weixin.qq.com/s/AW9HGRnQQTRRF_hH4P2_xA",
+        "source": "Doonsec",
+        "date_added": "2026-07-21"
     }
 ]
