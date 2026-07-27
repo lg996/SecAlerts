@@ -16,5 +16,29 @@
         "url": "https://mp.weixin.qq.com/s/w1NorX4kzCCjdflqEMKdgA",
         "source": "Doonsec",
         "date_added": "2026-07-27"
+    },
+    {
+        "title": "刚升到 Gitea 1.27.0 以为安全了？两个 0day 直接 RCE",
+        "url": "https://mp.weixin.qq.com/s/PONVOe9ehMxbB86HiVKSQw",
+        "source": "Doonsec",
+        "date_added": "2026-07-27"
+    },
+    {
+        "title": "智能自动化漏洞挖掘平台 -- AutoHunter",
+        "url": "https://mp.weixin.qq.com/s/-8C2V0a_pNmNfZXhcoxpgw",
+        "source": "Doonsec",
+        "date_added": "2026-07-27"
+    },
+    {
+        "title": "Claude Max 20x 订阅漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/OODDmAA5v8Wb0tN1jvUtMQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-27"
+    },
+    {
+        "title": "用友U8Cloud extsystem.dst 接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/yonyou-u8c-extsystem-dst-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-07-27"
     }
 ]
