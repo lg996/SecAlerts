@@ -82,5 +82,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617960&idx=3&sn=90434953831a389eb1c96a400518f879",
         "source": "BruceFeIix",
         "date_added": "2026-07-30"
+    },
+    {
+        "title": "一张图片拿下 Rails 服务器，CVSS 9.5 命令执行零门槛",
+        "url": "https://mp.weixin.qq.com/s/birSjBq7p5wjoxnPCUfFow",
+        "source": "Doonsec",
+        "date_added": "2026-07-30"
     }
 ]
