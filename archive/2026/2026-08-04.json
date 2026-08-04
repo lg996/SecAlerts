@@ -16,5 +16,71 @@
         "url": "https://mp.weixin.qq.com/s/A_0Tu4tPPB5F3hFoR20sEQ",
         "source": "Doonsec",
         "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.7.27-2026.8.2",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503896&idx=1&sn=0bca57a0325ae780a651fb39a4e3517a",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [SolarWinds 严重漏洞可导致绕过 Web Help Desk SAML 登录认证机制",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526788&idx=1&sn=31b126ba90fa61c7de56aff42e8761fd",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [Rails 修复严重的 Active Storage 漏洞，可导致 RCE 后果",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526788&idx=2&sn=7f4b4916527a0b69b3f51b0b28b6c5ed",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [9.10 北京｜AI Agent 驱动 Android 逆向与 Root 漏洞实战训练营",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618175&idx=2&sn=6e07d97e55af6343f2567a424a9b98fe",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [硬件钱包重大漏洞！Coldcard固件缺陷，近9000万BTC资产失窃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618175&idx=3&sn=0fea3852280411019ea5dfeb331b8a52",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [【安全圈】DNA证据遭篡改？赛默飞修复高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078137&idx=2&sn=17a2d4ad4d423e7a8453c8dad79df73f",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [【漏洞预警】Linux Kernel OVSwrap 权限提升漏洞，PoC 已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497869&idx=1&sn=eb12a910ec9c91de2c73398e22aaac56",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第30期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497156&idx=1&sn=1eb1b912c9b26a5d43b35b4f48dc31ce",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260727-20260802)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497156&idx=2&sn=e41a59b8f6316b5a0190cf2a683c882e",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "红队视角下的AI安全：一次银行聊天机器人渗透测试引发的深思",
+        "url": "https://mp.weixin.qq.com/s/e239LUgfy4QBnMNKGane_g",
+        "source": "Doonsec",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "IBM 2026数据泄露报告：92%的AI安全事件源于缺失访问控制；CNVD发布漏洞周报2026年第30期| 牛览",
+        "url": "https://mp.weixin.qq.com/s/RrO8-TMOG4sATI5X2xZAyQ",
+        "source": "Doonsec",
+        "date_added": "2026-08-04"
     }
 ]
