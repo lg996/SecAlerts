@@ -27,11 +27,6 @@ jobs:
     permissions:
       contents: write # 允许检出代码和提交 archive 目录的更改
       pages: write      # 允许部署到 GitHub Pages
-      id-token: write   # 允许 OIDC 认证
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
 
     # 任务步骤
     steps:
