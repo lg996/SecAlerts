@@ -59,15 +59,3 @@ jobs:
           # 使用 'git diff --staged --quiet' 检查是否有暂存的更改
           # '||' 表示如果前一个命令失败（即有更改），则执行后续命令
           git diff --staged --quiet || (git commit -m "Automated update of archive data" && git push)
-        
-      # 第六步：打包生成的静态文件以供部署
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          # 上传当前目录下的所有文件 (包括 index.html 和 archive.html)
-          path: '.'
-
-      # 第七步：部署到 GitHub Pages
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
