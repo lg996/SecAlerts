@@ -29,6 +29,10 @@ jobs:
       pages: write      # 允许部署到 GitHub Pages
       id-token: write   # 允许 OIDC 认证
 
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     # 任务步骤
     steps:
       # 第一步：检出你的仓库代码
