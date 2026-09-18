@@ -346,5 +346,41 @@
         "url": "https://mrxn.net/jswz/zfsoft-dwr-CalendarNewsAjax-getlatestNewsList-sqli.html",
         "source": "MRXN",
         "date_added": "2026-09-18"
+    },
+    {
+        "title": "(10分) CVE-2026-69865：微软Azure容器仓库鉴权绕过",
+        "url": "https://mp.weixin.qq.com/s/vur3G7YqbIC2P_cN27kXoQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "【SRC挖掘】记一次XSS绕过",
+        "url": "https://mp.weixin.qq.com/s/xUQ_P3wzmTGkU3127S7Pow",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "全流程 AI 化：沥泉科技TraceLoom从发现漏洞到验证漏洞",
+        "url": "https://mp.weixin.qq.com/s/RpB5-hwLT-0-q7ClbQ-x5w",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "亚信荣获CNCERT、CNVD多个国家级应急支撑荣誉，以专业实力筑牢网络安全防线",
+        "url": "https://mp.weixin.qq.com/s/OKfrjIwXChCKs-lD7dk0HQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "ChanCMS-v3.3.0存在SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/ChanCMS-search-key-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "ChanCMS-v3.3.0存在远程代码执行漏洞",
+        "url": "https://mrxn.net/jswz/ChanCMS-collect-getArticle-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-09-18"
     }
 ]
