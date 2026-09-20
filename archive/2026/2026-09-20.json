@@ -322,5 +322,17 @@
         "url": "https://mp.weixin.qq.com/s/NVEji4oWEYNMs1LZvTrwOw",
         "source": "Doonsec",
         "date_added": "2026-09-20"
+    },
+    {
+        "title": "【已复现】Cisco ISE 认证绕过漏洞（CVE-2026-76460）",
+        "url": "https://mp.weixin.qq.com/s/fAylyI9RH-nJNSPd45rEog",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "(9.1分) CVE-2026-93958：D-Link R95 路由器命令注入",
+        "url": "https://mp.weixin.qq.com/s/f2qsP8coahnqHnXQ-0z0nw",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
     }
 ]
