@@ -1,0 +1,56 @@
+[
+    {
+        "title": "在野被利用的 Linux 内核漏洞",
+        "url": "https://mp.weixin.qq.com/s/T4E-K_t60Uq4atJs1ze3HA",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "Black Hat USA 2026：拖拉机ECU漏洞修复",
+        "url": "https://mp.weixin.qq.com/s/vfQrAeAenmdS6TXJWyn_1A",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "macOS公布提权漏洞CVE-2026-43783(POC已公开)",
+        "url": "https://mp.weixin.qq.com/s/vbI1v1on0v7TZq6QKaT6hQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "【漏洞分析】CVE-2026-81642：一行恶意 DNS 记录如何无接触拿下你的服务器",
+        "url": "https://mp.weixin.qq.com/s/z9TcJ95ZSTQLcsGvhBFbqw",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "渗透武器库、渗透工具箱 | 专为渗透测试从业者开发的一站式工具启动器",
+        "url": "https://mp.weixin.qq.com/s/_XpgJWD4t3c1xb1liSG6CA",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "6.3 万 Star 的 AI 红队，把渗透测试打成了白菜价",
+        "url": "https://mp.weixin.qq.com/s/Xj8mSy1jaTooSRXs4h4PsA",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "软件包有来源证明，为什么供应链仍可能被投毒？",
+        "url": "https://mp.weixin.qq.com/s/UTzzGMoCg4OxCWlnvo-hVQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "英国国家网络安全中心警告Check Point VPN 关键漏洞可能面临大规模利用",
+        "url": "https://mp.weixin.qq.com/s/hIQVdHMTjdsssqkCOAOlOQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "CRMEB系统最新版v6.0.0theme_import接口zip解压RCE漏洞",
+        "url": "https://mrxn.net/jswz/crmeb-adminapi-theme-import-zip-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-09-20"
+    }
+]
