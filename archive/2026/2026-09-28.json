@@ -334,5 +334,35 @@
         "url": "https://mp.weixin.qq.com/s/pcj3HVsp61Yw1Ap5CDIY5A",
         "source": "Doonsec",
         "date_added": "2026-09-28"
+    },
+    {
+        "title": "第174篇：Python 型内存马注入与沙箱逃逸（记一次应急响应中的内存马样本分析）",
+        "url": "https://mp.weixin.qq.com/s/W-TvHJVSaR8Rsy5HYX17pw",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "一次遗憾的渗透，差最后一步 getshell",
+        "url": "https://mp.weixin.qq.com/s/sXa7B3s81JonmYOIqqbrUg",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "漏洞挖掘和红队工作技能包 - Claude-BugHunter",
+        "url": "https://mp.weixin.qq.com/s/9fZ9iseX1RcLHnTRq5gWrg",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "不用 WriteProcessMemory 的进程注入：借控制台命名管道把载荷写进远程进程",
+        "url": "https://mp.weixin.qq.com/s/5QW-qf3C0YcT9sutgZW4JQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "(10分) CVE-2026-101001：Netcore路由器未鉴权命令注入",
+        "url": "https://mp.weixin.qq.com/s/-xlPD7Z7tKip_pY_GrS0jw",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
     }
 ]
