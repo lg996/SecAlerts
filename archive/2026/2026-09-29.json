@@ -280,5 +280,173 @@
         "url": "https://mp.weixin.qq.com/s/jXarGFJUiWYg0Qv_hBSsuQ",
         "source": "Doonsec",
         "date_added": "2026-09-29"
+    },
+    {
+        "title": "Linux容器逃逸漏洞细节及概念验证（PoC）代码披露",
+        "url": "https://mp.weixin.qq.com/s/blesnGMBRJCqH2ImkBSaRg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "(10分) CVE-2026-102240：Netcore AP未认证命令注入，一条GET拿root",
+        "url": "https://mp.weixin.qq.com/s/_Z38qSHvDhI-X5NwN9SnAg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "windows提权(二)-利用priv特权提权",
+        "url": "https://mp.weixin.qq.com/s/ecJGFHCpzlPhQeXx5aN-1A",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "【安全圈】看张图片就中招？苹果的这个漏洞你一定要看",
+        "url": "https://mp.weixin.qq.com/s/CFQdEGhb3d7ulwAsnmCLRQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "【安全圈】MCP官方SDK高危漏洞：恶意服务可盗取OAuth凭证",
+        "url": "https://mp.weixin.qq.com/s/DiDJKzTMpC9q2cqxpz4oCA",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "AgentMirror 源码解读：专门反制渗透测试 Agent 的蜜罐",
+        "url": "https://mp.weixin.qq.com/s/08j1BG-zU2BtKcv43qe7sg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "【漏洞通告】Citrix NetScaler ADC/Gateway未授权命令注入漏洞(CVE-2026-88771)",
+        "url": "https://mp.weixin.qq.com/s/rAB8v9QOL5VxaivLBPetEA",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "【漏洞通告】VMware vCenter存在目录遍历漏洞(CVE-2026-59310)",
+        "url": "https://mp.weixin.qq.com/s/2deFsswBKjwGsSp1bKSs_w",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "redisRCE复盘",
+        "url": "https://mp.weixin.qq.com/s/rNcz37vLoVwapVja4TjcCw",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "资产遍布全国、漏洞库三年翻倍的背后，某大型集团的漏扫为什么越来越\\\"稳\\\"？",
+        "url": "https://mp.weixin.qq.com/s/xcwzaMESU-RZVc3n_hWvyQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "V8 漏洞利用入门：从 StarCTF 2019 OOB 到任意读写与 WASM RCE",
+        "url": "https://mp.weixin.qq.com/s/UJ2JjM0Eojs8vYSQcZXRaA",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "昂贵的代价！知名金融机构因供应商漏洞失陷，超26亿元失窃",
+        "url": "https://mp.weixin.qq.com/s/3U0cCa95-sU0HdiQu52zOg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "斗象科技谢忱：AI大模型改写漏洞攻防，旧规则已经失效",
+        "url": "https://mp.weixin.qq.com/s/_WrxKw9ezRzV3lEdPE4c9g",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "CNNVD | 人工智能重要漏洞通报（2026年第十四期）",
+        "url": "https://mp.weixin.qq.com/s/BuobyZqHMxVvsBL7XUepBg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "CNNVD | 通报OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/9d3Qj2t7534mcv5EolWGIw",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "实力认可！云起无垠荣获2026年度CNNVD“基础软硬件漏洞报送优秀企业”",
+        "url": "https://mp.weixin.qq.com/s/cF7e4MwA1eRXtZpDpjhygA",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "CNNVD通报OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/NZsa61Ie4rHNOdTfuUsYnw",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "一条日志报文拿到 vCenter 的 root：CVE-2026-59310 复现记录",
+        "url": "https://mp.weixin.qq.com/s/I1TqA3FFUz-6EKrOuJPghQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "人工智能重要漏洞通报（2026年第十四期）",
+        "url": "https://mp.weixin.qq.com/s/Q0UN4wkYL4_YZJHjVJWISQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "人工智能重要安全漏洞的通报OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/iqoqe7H8kCVrSYSan1KV5w",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "【漏洞预警】Citrix NetScaler ADC/Gateway 未认证远程代码执行漏洞已在野利用（CVE-2026-88771）",
+        "url": "https://mp.weixin.qq.com/s/rtx39Gyh2Xt7-yaxrypACQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "CNNVD | 重要安全漏洞通报（2026年第七期）",
+        "url": "https://mp.weixin.qq.com/s/cT6T3VgojVBWREKz20JJTg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "Citrix NetScaler未认证RCE：默认配置全中招，在野利用数周",
+        "url": "https://mp.weixin.qq.com/s/hMQQd-DStY2qYx6b1pIOSg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "机器开始自己越权了：AI 智能体一年 17 次\\\"翻墙\\\"，英伟达紧急下场装护栏",
+        "url": "https://mp.weixin.qq.com/s/CauIdrRvm0hsQ_y6paVhPA",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "【在野利用】Citrix NetScaler 命令注入漏洞(CVE-2026-88771)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/dOH2cGZrcTLIa-2JT9PXow",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "【已复现】CVE-2026-88772 Citrix NetScaler内存溢出漏洞 CVE-2026-88771 NetScaler Gateway 预认证命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/TO0gEv_BH6YClzmZB1pdew",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "网络安全入门最实用的第一步：手把手教你搭建专属的渗透测试环境",
+        "url": "https://mp.weixin.qq.com/s/5plI0J1utcwSuYtv0ahj5g",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "新品发布｜海云安发布智乘代码安全智能体（HiCode Security），让 AI 像安全专家一样做代码审计",
+        "url": "https://mp.weixin.qq.com/s/g0MHPv8Lw-bCS_tEFIs6Eg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
     }
 ]
