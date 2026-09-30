@@ -316,5 +316,11 @@
         "url": "https://mp.weixin.qq.com/s/UXISN-owhS5b7IDcTWAIZA",
         "source": "Doonsec",
         "date_added": "2026-09-30"
+    },
+    {
+        "title": "SQL 注入到底是怎么操作的？",
+        "url": "https://mp.weixin.qq.com/s/OSQrob5TZbVTt9U6YJ7ohA",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
     }
 ]
