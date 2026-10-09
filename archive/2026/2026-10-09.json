@@ -190,5 +190,41 @@
         "url": "https://mp.weixin.qq.com/s/hJvBlmXlRjWBXbGSGUqmxA",
         "source": "Doonsec",
         "date_added": "2026-10-09"
+    },
+    {
+        "title": "思科：注意可导致 Nexus 交换机遭接管的多个严重漏洞",
+        "url": "https://mp.weixin.qq.com/s/GuUNxX_y69sPYe78iane8w",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "Citrix：这个严重的 NetScaler SAML 漏洞可导致 RCE",
+        "url": "https://mp.weixin.qq.com/s/445-QUAsBRk8463hjJsKpw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "中国某网络与通信设备厂商的未授权访问权限售卖事件分析",
+        "url": "https://mp.weixin.qq.com/s/4IT2oueXsqSzafN4Ivd6fQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "从100块到2000块：一个普通人在SRC挖漏洞赚赏金的真实记录",
+        "url": "https://mp.weixin.qq.com/s/SWZhor5-NyYSOOoKtMFNgQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "报名进行时｜首届全球具身智能应用创新挑战赛·漏洞挖掘挑战赛诚邀参赛",
+        "url": "https://mp.weixin.qq.com/s/lwlbIGNmEEM3puRcXsndzw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "用友U8+ U8remote GNRemote 未授权导出调用账户接管与SQLite注入漏洞",
+        "url": "https://mrxn.net/jswz/U8-U8remote-GNRemote-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-09"
     }
 ]
