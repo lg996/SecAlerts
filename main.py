@@ -910,7 +910,7 @@ def generate_html_page(articles, output_path, page_title, page_kind='index'):
         ('index.html', '首页', 'index'),
         ('archive.html', '归档', 'archive'),
         ('https://wechat.doonsec.com/rss.xml', 'RSS', None),
-        ('https://github.com/wy876/SecAlerts', 'GitHub', None),
+        ('https://github.com/lg996/SecAlerts', 'GitHub', None),
     ]
     nav_parts = []
     for href, label, kind in nav_defs:
