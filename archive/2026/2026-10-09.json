@@ -178,5 +178,17 @@
         "url": "https://mrxn.net/jswz/U8-U8Application-U8CCLoginService-data-leak.html",
         "source": "MRXN",
         "date_added": "2026-10-09"
+    },
+    {
+        "title": "漏洞预警:NVIDIA DCGM Exporter (CVE-2026-47483) 导致资源消耗Dos和信息泄露漏洞，CVSS:8.2",
+        "url": "https://mp.weixin.qq.com/s/YXiS6yoXUV-MRePHGHc71A",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "下一代 AI 嵌入式渗透测试工具包",
+        "url": "https://mp.weixin.qq.com/s/hJvBlmXlRjWBXbGSGUqmxA",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
     }
 ]
