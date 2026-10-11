@@ -1,0 +1,32 @@
+[
+    {
+        "title": "(9.1分) CVE-2026-97670：Avada表单未授权调用任意Hook，可永久删站内容",
+        "url": "https://mp.weixin.qq.com/s/EYmjVeqgd3fsQGizbcIPtg",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "【热点安全风险】10月11日｜电力工控平台曝未认证远程代码执行漏洞，攻击者可直取电网监测系统（CVE-2026-100730）",
+        "url": "https://mp.weixin.qq.com/s/U5QocHhwnm_cLvwwalJiIA",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "冠军 AI 渗透工具 ARTEX 架构拆解",
+        "url": "https://mp.weixin.qq.com/s/0ERA1fdiQpDX3he8qSHiRw",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "微软发布紧急 Exchange Server 更新以修复 CVE-2026-96940",
+        "url": "https://mp.weixin.qq.com/s/KYlCKzU36llnmZsY5UaU8w",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "用友U8+ U8AuditWebSite WorkFlowTaskService 未授权连接串注入SQL注入命令执行漏洞",
+        "url": "https://mrxn.net/jswz/U8-U8AuditWebSite-WorkFlowTaskService-sqli-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-10-11"
+    }
+]
