@@ -706,5 +706,35 @@
         "url": "https://mp.weixin.qq.com/s/-RKtac9xjoBN6w9e4nRZOQ",
         "source": "Doonsec",
         "date_added": "2026-10-14"
+    },
+    {
+        "title": "AuthKit — 首个多维度辅助检查鉴权安全的burpsuite插件 | 辅助发现未授权访问、水平越权、垂直越权及 BOLA / IDOR 风险",
+        "url": "https://mp.weixin.qq.com/s/U_UVrtu4ffJ0kfDdJF3iEg",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "【热点安全风险】10月15日｜Ivanti Connect Secure 曝认证绕过漏洞并遭在野利用，攻击者可绕过身份校验执行任意命令（CVE-2026-104935）",
+        "url": "https://mp.weixin.qq.com/s/SID7WpP7JppWHWbZL7qrzA",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "航运公司和港口卷入大规模网络勒索——n0n一次性点名38家海事企业，共享漏洞疑云笼罩全球供应链",
+        "url": "https://mp.weixin.qq.com/s/yaBmCoyYEaDt0yw2z-M3pA",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "提示词注入：大模型的“死穴”，为何至今无解？",
+        "url": "https://mp.weixin.qq.com/s/LZ5-D59i7bbsIx_HIx3SCg",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "50个工具、296个测试、四类智能体：目前最工程化的开源AI渗透框架",
+        "url": "https://mp.weixin.qq.com/s/Oxos5AJpGb6UzM1NJx5P3w",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
     }
 ]
