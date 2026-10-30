@@ -466,5 +466,23 @@
         "url": "https://mp.weixin.qq.com/s/ZXUqPoZlkjJP5mGrlIS0jA",
         "source": "Doonsec",
         "date_added": "2026-10-30"
+    },
+    {
+        "title": "【热点安全风险】10月31日｜Linux 内核 9.8 分缺陷，未认证攻击者可越界写内存（CVE-2026-98432）",
+        "url": "https://mp.weixin.qq.com/s/DDPXJ6avqVZMNWVtbEQr9w",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "荐片播放器暗藏后门，七天感染七十万台设备，峰值单日25万台受控",
+        "url": "https://mp.weixin.qq.com/s/tCpQ2NowpvIoqFGSzOfjYg",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "Linux内核TCP漏洞，CVSS评分9.8，影响Ubuntu、Red Hat及其他发行版",
+        "url": "https://mp.weixin.qq.com/s/aDOF8Tx1KqWdm6f2nqdKLA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
     }
 ]
