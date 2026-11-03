@@ -1,0 +1,44 @@
+[
+    {
+        "title": "记一次edu通杀漏洞的思路",
+        "url": "https://mp.weixin.qq.com/s/N1R2jf20kkX6Zv3lpjGfWQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "sessdump | Windows后渗透浏览器/应用凭据解密导出工具。",
+        "url": "https://mp.weixin.qq.com/s/AUDrLu8XANdv67qm30Z_1g",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "云天 · 安全通告（2026年11月3日）",
+        "url": "https://mp.weixin.qq.com/s/7wK1OfAaCFFgVSb57bbk8A",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "从规则定义到AI驱动，天融信新一代自动化渗透测试系统正式发布！",
+        "url": "https://mp.weixin.qq.com/s/DcSA1N-uHa0S8KsnY0RQyA",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "Linux 爆出 CVSS 9.8 高危漏洞！CVE-2026-98432 可导致远程 Root 权限，赶紧检查你的服务器",
+        "url": "https://mp.weixin.qq.com/s/3352hMObW5pcCDNoIVzYjA",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "【已复现】【远程rce】Linux Kernel IPv4 TCP 释放后重用漏洞（CVE-2026-98432）",
+        "url": "https://mp.weixin.qq.com/s/Jr79SQnXbxrL4tqXxnW4Mg",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "CVE-2026-49881 漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/Kmfsw_YEyjZyQzlpjNCExQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    }
+]
