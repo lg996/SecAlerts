@@ -574,5 +574,47 @@
         "url": "https://mp.weixin.qq.com/s/bNm9LORgQ16hM1WDowpd-A",
         "source": "Doonsec",
         "date_added": "2026-11-10"
+    },
+    {
+        "title": "CTF 线下赛用的离线 PHP 速查手册 | 11,930 条条目、196 条实战技巧、990 个payload、PHP 官方中文手册索引",
+        "url": "https://mp.weixin.qq.com/s/QShycf7i49319e9wDQs03w",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "APT29利用N DAY漏洞对 iOS 和 Android 设备发起零点击攻击",
+        "url": "https://mp.weixin.qq.com/s/mRWVj0m95bZ1JDYlWxqFVw",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "SonicWall警告称，已停止支持的GMS软件存在未修复的漏洞",
+        "url": "https://mp.weixin.qq.com/s/NxiXOes2OTwOZIIRzJ8-iA",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "安全工具丨一个集资产收集、攻击面评估、漏洞验证与 AI 渗透对话于一体的安全测试平台",
+        "url": "https://mp.weixin.qq.com/s/kXLsU-NUa_2bVUx0_gT4JQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "SonicWall 警告：SSL-VPN MFA 绕过漏洞已被攻击者利用",
+        "url": "https://mp.weixin.qq.com/s/h25jk3L33FAuD8v1a524XQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "POC",
+        "url": "https://mp.weixin.qq.com/s/RqXtHhfxexJRyFTw34Oe-Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "CSRF的2026年真相：你防的是“跨站请求”，攻击者利用的是“你允许状态变更的那个方法”",
+        "url": "https://mp.weixin.qq.com/s/Kj-n66TK4I5xREfaAd_txg",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
     }
 ]
