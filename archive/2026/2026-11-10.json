@@ -550,5 +550,29 @@
         "url": "https://mp.weixin.qq.com/s/Jby9SL9FAY-nvqSdmPXRmQ",
         "source": "Doonsec",
         "date_added": "2026-11-10"
+    },
+    {
+        "title": "未认证绕过登录：SAP 一天 4 个 10.0 分漏洞",
+        "url": "https://mp.weixin.qq.com/s/6GuBbj-n47p8IjYalwi6aQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "【安全圈】SSHole与GPUStack遭在野利用！CISA急列四漏洞",
+        "url": "https://mp.weixin.qq.com/s/cLS6_ltFSyyr6X3ScsPlUg",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "Notepad++ 发布 8.9.9 安全更新：修复 6 项漏洞，含本地插件命令执行缺陷",
+        "url": "https://mp.weixin.qq.com/s/xq-YgW3bv7ZQNSFwmoOyzg",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "Veeam 发布高危漏洞预警：Linux 内核内存破坏缺陷波及多款备份与恢复组件",
+        "url": "https://mp.weixin.qq.com/s/bNm9LORgQ16hM1WDowpd-A",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
     }
 ]
