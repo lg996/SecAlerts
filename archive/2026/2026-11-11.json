@@ -1,0 +1,92 @@
+[
+    {
+        "title": "赛博安全狗：微软Windows DHCP客户端双重释放漏洞CVE-2026-96115可远程攻击 (11.11)",
+        "url": "https://mp.weixin.qq.com/s/5tq4wyp8apdJ6o6fObOYrA",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "微软11月补丁日多个产品安全漏洞风险通告：1个在野利用、43个紧急漏洞",
+        "url": "https://mp.weixin.qq.com/s/1ST4x2CB5lsISa8QrXBJVA",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "OpenSSL 安全公告详述 QUIC、AES-GCM-SIV 和 CMS 中的五个漏洞",
+        "url": "https://mp.weixin.qq.com/s/vaHRb3hQJp08_M2PajvCjw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "11月10日漏洞：5个，3个认证绕过、1个未授权、1个信息泄露",
+        "url": "https://mp.weixin.qq.com/s/ZLZiH7kAFVS0yza01v5dEA",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "【HVV 实战】校园一卡通云平台渗透：从未授权文件上传到 376 个 API 端点泄露",
+        "url": "https://mp.weixin.qq.com/s/L5JuBVJWZ2yM1hN99feUgw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "盲IDOR侧信道枚举漏洞",
+        "url": "https://mp.weixin.qq.com/s/B3MgqCjnWl6tHfe8uz3rsw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "130万台电视盒子出厂自带后门",
+        "url": "https://mp.weixin.qq.com/s/JwQ7fDnnyoIC2w7e5oKB7g",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "从黑盒到白盒：一次 .NET 后台渗透实录",
+        "url": "https://mp.weixin.qq.com/s/oko_yhNiAAhCJxPz0NpqNQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "AntiFox:AI 多智能体自主渗透测试平台,从侦察到交付报告全流程自动化,附下载",
+        "url": "https://mp.weixin.qq.com/s/SXlq8U4lztITf3RZFCxnwg",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "漏洞通告|Apache OFBiz服务器端模板注入漏洞(CVE-2026-85627)",
+        "url": "https://mp.weixin.qq.com/s/tt_gZcbuQXbwFU8JI-wRMA",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "渗透测试-如何高效率挖掘漏洞",
+        "url": "https://mp.weixin.qq.com/s/uZpF5Qxwp62jXMvGnBXqaw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "【倒计时预警】谷安双11宠粉活动最后一天！考证囤课最后冲刺！",
+        "url": "https://mp.weixin.qq.com/s/epESMBi5jTrfv-2XEb_2PA",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "CVE | CVE-2026-98260漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/48DeL0zOFGQ-QD-2smMs9g",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "漏洞预警 | Windows画图板越界读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/0pnfYVlJireNEUS0NRM0zQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/A46Fo0tF8W9RV4hbLg28Xw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    }
+]
