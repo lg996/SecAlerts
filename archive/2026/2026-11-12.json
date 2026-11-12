@@ -1,0 +1,122 @@
+[
+    {
+        "title": "] [安全能力重构 | D008篇 前端和后端到底谁负责什么",
+        "url": "https://mp.weixin.qq.com/s/jVcBI6HEqk-XXeDu93XNZg",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [湘易办被打穿，ARTEX还在发力",
+        "url": "https://mp.weixin.qq.com/s/c492WzuMirCe2w5qQU2TEg",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [微软11月补丁星期二值得关注的漏洞，含1个0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527726&idx=1&sn=2c5d66ada519c7108099844332f3e46e",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [SGLang RCE 被用于攻陷 NEAR AI，窃取18个智能体和约100名用户的数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527726&idx=2&sn=5f0bbf2be1a7d502bb2f04ac753c4185",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [360漏洞云亮相 第九届西安四叶草SSC网络安全大会",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505463&idx=2&sn=8fba5bcc8c0d7128f6507675100c85f5",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [AI引发的漏洞补丁暴涨何时见顶？关键信号出现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516872&idx=1&sn=0b741df1b3647f5bbe0633334f74ebc2",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [工信部漏洞库：关于防范Node.js越界写入超危漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516872&idx=2&sn=5696658171766372e53151de8ad8ea85",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [某咖啡附近门店接口逆向实战：从 Chaos VM 字节码到纯 Node.js 零登录复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624097&idx=1&sn=f89189c314a5a34170434256981c6a6b",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [（参与双11满减）今日更新！AI驱动的Windows内核漏洞挖掘与Fuzzing实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624097&idx=3&sn=7125f2b3e674078efe8adf97eca980c4",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [chrome最新版，2026-11-11，0day，附检测脚本",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165839&idx=1&sn=2a1777c7dbb46acc537e1f2627b7c862",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [Anthropic 发布 Claude Mythos 5.2：漏洞发现能力提升，沙箱逃逸行为显著减少",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544485&idx=1&sn=de68945a35ececfb04809956de6e7f9d",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [关于使用AI辅助安全测试规范及违规白帽处置的通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247511298&idx=2&sn=ce082794cba2b5735998901ca31dce6b",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [PHP2Shell高危漏洞复盘：AI如何让复杂内存漏洞变成远程代码执行？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143209&idx=1&sn=a8a29fa75367d1aea1773dede4332ecd",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [2026-11微软漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538800&idx=1&sn=6788b40bfe4f9333133fd38626275553",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [微软补丁日安全通告|11月份",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526434&idx=1&sn=f8fced3958116a287a0f00487eb5047b",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [微软11月补丁日多个产品安全漏洞风险通告：1个在野利用、43个紧急漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508087&idx=1&sn=781d57ec363ee524ec97e845e26cfdf8",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第44期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502586&idx=1&sn=a0abbf1f4eab333025616ed763e499c7",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第44期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497509&idx=1&sn=8572286f4fadbce678f9c73092142eec",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20261102-20261108)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497509&idx=2&sn=001dbf7ed664ac3cdd5d8f5e14b005e8",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    },
+    {
+        "title": "] [【安全更新】微软11月安全更新多个产品高危漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494028&idx=1&sn=07060cd606411c72d8cf9de343af89e6",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-12"
+    }
+]
