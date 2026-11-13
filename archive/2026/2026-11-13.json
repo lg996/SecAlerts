@@ -1,0 +1,44 @@
+[
+    {
+        "title": "] [已复现！7-Zip LZX 解码器远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509041&idx=1&sn=d6e387eacb4bd1900b1f3c36100a3b3f",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "] [N-able 紧急发布多个 0day 漏洞的热修复方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527734&idx=1&sn=27ab8cc40b2cd3f52cbe7dfdbb8f4ed5",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "] [Zoom Workplace 严重漏洞可导致未认证远程提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527734&idx=2&sn=9b895e06baddc340204fcf6cc92a1a95",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "] [360首批签署《网络产品安全漏洞收集平台自律公约》，共筑漏洞治理良性生态",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505473&idx=1&sn=d955642e46ede7ce64ff3d79e0260467",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "] [安全厂商主动关闭服务：30多个零日漏洞让远程管理平台紧急下线",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544494&idx=1&sn=5eadbee5334b106f872d9fc78a57d9b7",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "] [【安全圈】Apache高危RCE来袭！HTTP/2并发漏洞评分9.8",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079845&idx=2&sn=300a03bce4c517af56be2417bf250b8c",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "] [【已复现】7-Zip LZX 解码器堆越界写入漏洞(CVE-2026-125742)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508100&idx=1&sn=6f81d45d46dee8d85c4f8d85dcb07891",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-13"
+    }
+]
