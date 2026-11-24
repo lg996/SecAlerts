@@ -4,5 +4,263 @@
         "url": "https://mp.weixin.qq.com/s/ZFKLm2hh341Ae2EiE36R4w",
         "source": "Doonsec",
         "date_added": "2026-11-24"
+    },
+    {
+        "title": "【漏洞预警】卡车卫星定位系统命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/lbxXL2c4xWm8xselJYqWjA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "近期0day复现到 ARTEX 自动化攻击测试，这款WAF神了",
+        "url": "https://mp.weixin.qq.com/s/kPAkeGK7cR_7v9_1ZLqhvQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "云天 · 安全通告（2026年11月24日）",
+        "url": "https://mp.weixin.qq.com/s/64P37qfaXpzQ8wSHNbSkBg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第46期",
+        "url": "https://mp.weixin.qq.com/s/DcE4zNCQ9LesmwXCOZc3bQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "分享三例有趣的登录逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s/H7iQtzuYnvTT4C8_pHJywQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "快思考对付提示注入：Elastic 四个 System 1 分类器在 ingest 管道内毫秒级打分",
+        "url": "https://mp.weixin.qq.com/s/GQk1YEzfBiqaTkSZUt_w0A",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "35岁被优化后，我把路走宽了：一份能直接上手的漏洞平台清单",
+        "url": "https://mp.weixin.qq.com/s/Fmmx5JM-vgIE2lefw1DGpA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "服务端高危系第03篇  一张头像，传进一个后门  文件漏洞",
+        "url": "https://mp.weixin.qq.com/s/nKJbTOhVcVrOCkWoJih8vg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "CSRF 的信任盲区：Referer 校验与 Token 的绕过图谱",
+        "url": "https://mp.weixin.qq.com/s/yPJOgB8gvTmr9fJKneWANg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "【已复现】Windows Remote Access API 本地权限提升漏洞(CVE-2026-119853)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/reNfMXK_EePqRNnq1mGitg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第46期",
+        "url": "https://mp.weixin.qq.com/s/2kK4psCJxq-bc3t5-q8UfQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20261116-20261122)",
+        "url": "https://mp.weixin.qq.com/s/zmC_Rf7cCVsY17kp2evG8w",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "让 AI 自动挖漏洞，为什么光靠 Agent 不够？Cloudflare 的实践",
+        "url": "https://mp.weixin.qq.com/s/VrkWRcdH8Qv1yMpXsJQufQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "方向标邮件网关 get_audit.cgi 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/QNuPyb2Q8IhngwUth3_-Lg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "关于防范NGINX堆缓冲区溢出高危漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s/MvNNPNImhVVunGglHLZiDQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "勒索情报通告 | Aur0ra组织声称勒索新疆某纺织机械制造公司",
+        "url": "https://mp.weixin.qq.com/s/hRbhHYTKYD3GlrCrTxhqrg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "AI 编码迭代 XSS 平台｜更新日记",
+        "url": "https://mp.weixin.qq.com/s/5zxO93ajFAchj8NvxVLX2A",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "90分钟劫持一条发布链：codex2api三版本投毒，无鉴权RCE挂着Latest等更新",
+        "url": "https://mp.weixin.qq.com/s/xYb3IWUYHqeCfB36pqM1JQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "CVE-2026-135202:WordPress 插件后门导致的远程代码执行(RCE)漏洞在发布前被拦截",
+        "url": "https://mp.weixin.qq.com/s/wXMDxM3MFYRqnYWzvJZtaw",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "快、准、省！系统上线在即，这家电力企业请了一位“AI渗透测试专家”",
+        "url": "https://mp.weixin.qq.com/s/tA8IxidEYHG04aOmksE-kg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "文件上传&amp;基于GET方式的00截断绕过",
+        "url": "https://mp.weixin.qq.com/s/BFA0_OC9QeBkffG4rz6oeQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "你以为的渗透测试岗：天天挖洞。实际上的渗透测试岗：挖完洞还得去救火",
+        "url": "https://mp.weixin.qq.com/s/V_7URT8aWAFLa_g1xGeAwQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "【漏洞预警】JAVA爆出高危漏洞Java4Shell Base64 解码RCE漏洞分析(CVE-2026-114938)",
+        "url": "https://mp.weixin.qq.com/s/-BBY34uzfYDheKMr_05DHA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "内网渗透权限维持：15 种 Windows 后门手法，从影子账户到黄金票据",
+        "url": "https://mp.weixin.qq.com/s/65W13wAVNbMZpVZOOdtn9w",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "云上隐形后门Vmcloudoor：专攻中国三大云厂商",
+        "url": "https://mp.weixin.qq.com/s/_66Gi1iGrgOm16AGb4Dryg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "新的phpAfterShell攻击绕过了PHP2Shell的修复，从而实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/ayzz2IRkX0ksCuZVwfXBng",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "紧急预警！SonicWall彻底放弃Gen 6防火墙：哪怕高危漏洞也不补了，AI黑客正在路上",
+        "url": "https://mp.weixin.qq.com/s/X8VGq3SRsj5XMjg53UjKAQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "未认证 PUT 就写文件：MONAI Label 9.8 分 RCE 已在野",
+        "url": "https://mp.weixin.qq.com/s/5ySXnMVnzI2dmp44PJmJ0w",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "【热点安全风险】11月24日｜思科 Expressway 硬编码凭据，攻击者可执行系统命令（CVE-2026-76466）",
+        "url": "https://mp.weixin.qq.com/s/PHPg8cMpALwkOKcIFWMtdg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "泛微 OA SQL 注入漏洞如何研判？从一条 HTTP 请求识别数据库攻击",
+        "url": "https://mp.weixin.qq.com/s/jpHFPmtewHxd1ds74dft-Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "CVSS 9.8分！思科 Expressway 核弹级漏洞遭在野利用：从边界设备直捣内网，黑客甚至用上了 AI 写脚本",
+        "url": "https://mp.weixin.qq.com/s/TKG459ZGKvjtxPpsrSOR_w",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "漏洞预警 | NGINX整数下溢和释放后重用漏洞",
+        "url": "https://mp.weixin.qq.com/s/geSDU5QHXUCDdkV-_6nDJA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "漏洞预警 | OpenVPN本地权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/ayp1dGyRvm6nMhVq-RdO5w",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "面向红队和渗透测试人员的 AMSI 绕过技术——反射、内存修补、系统调用、混淆。一套全面的 AMSI（反恶意软件扫描接口）绕过技术",
+        "url": "https://mp.weixin.qq.com/s/ISQKqui0oDllmMtmoe_R-Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "摄像头渗透测试：从信息收集到漏洞验证的授权实践",
+        "url": "https://mp.weixin.qq.com/s/n1ZEhYvyX65jtCXekfTmkg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "警惕云上隐形后门Vmcloudoor：伪装成“可信Agent”，专攻中国三大云厂商",
+        "url": "https://mp.weixin.qq.com/s/H5Mwbg_6cBtzXx9KIAkLfA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "D1-Transformer 与注意力机制（提示注入的根，不在提示词里：从注意力机制看懂提示词注入的原因）",
+        "url": "https://mp.weixin.qq.com/s/f00rVtu7h61vk3if6Om83A",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "Ruby 中一个严重的单字节堆溢出漏洞可能导致远程代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s/pvvNMZoAqk70XtzlSe4bxg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "一条 SIP 短信到 shell：FreeSWITCH CVE-2026-116779 的红蓝全链路",
+        "url": "https://mp.weixin.qq.com/s/y915_VUtm9hyvRuLFXd5ng",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "所有AI渗透教程都在教“怎么让Agent更猛，没人教“怎么让Agent不疯”ByteSRC的“保留追究法律责任权利”，已经为这个教学空白标好了价格",
+        "url": "https://mp.weixin.qq.com/s/S9Dwo1i9M_kf7rKIOlvE6A",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "中国背景威胁组织利用Cairn AI智能体自主实施攻击，并成功发现零日漏洞获取服务器Root权限",
+        "url": "https://mp.weixin.qq.com/s/T53ru8FLfieYoyJBgartCA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "安全工具丨AI 驱动的自动化代码审计与漏洞挖掘平台，支持多 Agent 协作扫描、数据流分析、漏洞管理和可视化审计",
+        "url": "https://mp.weixin.qq.com/s/Ckad14I-sD6rs5rfA2zerA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "三个已修复的洞，我照着公告复现了一遍",
+        "url": "https://mp.weixin.qq.com/s/PIGDKYZzWT3HDREr4jrp5g",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
     }
 ]
