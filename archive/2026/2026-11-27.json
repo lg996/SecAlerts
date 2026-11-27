@@ -1,0 +1,146 @@
+[
+    {
+        "title": "【Tools备份】近万Star AI自动化渗透工具CyberStrikeAI闭源前备份",
+        "url": "https://mp.weixin.qq.com/s/jOxEtXSQYoHx2SQQq1IcVw",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "AI 自主渗透测试系统 多 Worker 协同探索、漏洞复测自动化闭环!",
+        "url": "https://mp.weixin.qq.com/s/VykeZ7LmYQ1PJ7JPfOppFA",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "一次校园系统渗透：token 越权、COS 列桶与任意上传全链路",
+        "url": "https://mp.weixin.qq.com/s/68Wja1ApN1ZGJYfvNLjqPg",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "12 年、1 条连接、61 字节越界写：Linux NFS满级漏洞可root",
+        "url": "https://mp.weixin.qq.com/s/TmP3_qLfItIgkFP2hQRNqA",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "从信息收集到 RCE：从登录框开始",
+        "url": "https://mp.weixin.qq.com/s/Pn1h72m2wqlf3Psnw-VrBg",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "渗透测试：文件上传绕过的 22 种手法",
+        "url": "https://mp.weixin.qq.com/s/G29JdTJLDx8BpXbjHHxDig",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "互斥参数同值化绕过权限检查漏洞",
+        "url": "https://mp.weixin.qq.com/s/nfmq6LgiTKDNEJAM9LDwIg",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "CVE-2026-92027:Tor Browser IP 泄露漏洞的 PoC 利用代码已发布",
+        "url": "https://mp.weixin.qq.com/s/1u28IN0ctHo5cuTiwR0SLw",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "这个SQL注入有点东西",
+        "url": "https://mp.weixin.qq.com/s/TAAL5RZzN-XuVMVQ1l83ag",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "从外网到域控：一次完整的红队内网渗透实录",
+        "url": "https://mp.weixin.qq.com/s/OQZMehFwLIJE-_DzPr6YsQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "一款专为若依（RuoYi）打造的漏洞扫描器",
+        "url": "https://mp.weixin.qq.com/s/DF_C0hx-yOkt6iqXZ6Z2aQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "【漏洞预警】Drupal爆出严重远程代码执行漏洞u200c(POC已公开)CVE-2026-132165",
+        "url": "https://mp.weixin.qq.com/s/kfDorHczFUSoRpGZz6NRVQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "【热点安全风险】11月27日｜瞻博网络 SD-WAN 在野利用，攻击者取得 root 权限（CVE-2026-103406）",
+        "url": "https://mp.weixin.qq.com/s/uHcNlEbpH7Eo5rj_vOaNSA",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "40 行 Python 建漏洞雷达：7 天 19 个在野利用",
+        "url": "https://mp.weixin.qq.com/s/0sA7bYYKWHwlMUSbqGS5cg",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "改一个比特位就能绕过Windows代码完整性？Google大神硬核拆解.NET底层加载“后门”！",
+        "url": "https://mp.weixin.qq.com/s/ykxxg1L7KMdWd4hYpgA34Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "CVE-2026-123903深度拆解：博通连夜修复23个高危漏洞，核心还是vmdir的锅？",
+        "url": "https://mp.weixin.qq.com/s/xkpahagPTTkJFx2mhzUCOg",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "漏洞预警 | VMware Directory Service认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/Z31SLpHN4WKySeEDQg_ZRQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "漏洞预警 | LibreOffice远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/F35f9zhdRALATB-t8ouYsg",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "AI自动化IOT漏洞挖掘 | ARTEX-IOT：固件解包 · 二进制逆向 · PoC 生成与复现 · 组件级漏洞挖掘与覆盖度追踪",
+        "url": "https://mp.weixin.qq.com/s/H7clw1On3liNcKRYQONqfg",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "时钟全栈安全，涵盖安全圈所有方向双十一尾车活动|承诺学完包挖cnvdcve",
+        "url": "https://mp.weixin.qq.com/s/_kFrBIIDuUHgg4B7gNfuew",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "VMware ESX 和 vCenter 的严重漏洞使攻击者能够绕过身份验证并执行任意代码",
+        "url": "https://mp.weixin.qq.com/s/GZ_Oycne_t2tSfcsqnoU-A",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "Palo Alto Networks警告称，Fragnesia漏洞已被恶意利用",
+        "url": "https://mp.weixin.qq.com/s/g-UGAw-WzGgjJJ8HYQ0T6w",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "AI时代下的深度漏洞研究",
+        "url": "https://mp.weixin.qq.com/s/4D209L1tplXyII1DxheYUg",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "据称黑客声称已找到利用 VMware vCenter 零日漏洞的方法",
+        "url": "https://mp.weixin.qq.com/s/qXjZZoGL2_LUZdnKRwfQ0g",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    }
+]
